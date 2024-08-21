@@ -1,0 +1,9 @@
+[
+"极光",
+"Fuser",
+"否","
+#e10909",
+"#FFFFFF",
+{"continue":"enter"},
+0
+]
